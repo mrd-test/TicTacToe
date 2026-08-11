@@ -2,6 +2,8 @@ Tic-Tac-Toe
 
 A simple and interactive Tic-Tac-Toe game built with React and JavaScript.
 
+Click here to try: https://mrd-test.github.io/TicTacToe/
+
 Preview:
 
 <img width="900" height="635" alt="demo1" src="https://github.com/user-attachments/assets/a2d64b54-8316-4b4a-930f-d0a2d211880f" />
