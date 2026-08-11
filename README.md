@@ -2,8 +2,9 @@ Tic-Tac-Toe
 
 A simple and interactive Tic-Tac-Toe game built with React and JavaScript.
 
-Preview
+Preview:
 
+<img width="900" height="635" alt="demo1" src="https://github.com/user-attachments/assets/a2d64b54-8316-4b4a-930f-d0a2d211880f" />
 
 
 
@@ -23,9 +24,9 @@ CSS
 Vite
 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/mrd-test/TicTacToe.git
 2. Navigate to the project
-cd tic-tac-toe
+cd TicTacToe
 3. Install dependencies
 npm install
 4. Start the development server
